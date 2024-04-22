@@ -1,0 +1,7 @@
+﻿## Interface: 30300
+## Author: Phemior
+## Notes: Кнопка что бы прятать чат. (Русские аддоны на http://getaddon.com)
+## Version: 3
+## Title: HideChatButton
+
+HideChatButton.lua
